@@ -255,7 +255,7 @@ const verdict = declareMurderer();
 console.log(verdict);
 
 // Prediction: The murderer is Professor Plum
-// Reason: While the if statement on 242 is true, line 243 is a 'let', meaning it only remains applicable within it's block
+// Reason: While the if statement on 246 is true, line 247 is a 'let', meaning it only remains applicable within it's block
 // Therefore: It'll return to Professor Plum after that block of code
 
 // Result: Correct!
